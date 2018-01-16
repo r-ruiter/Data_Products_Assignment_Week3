@@ -4,7 +4,7 @@
 .Rproj.user
 .RData
 .Ruserdata
-.Rproj
+.RProj
 .dcf
 
 # Output files from R CMD check
